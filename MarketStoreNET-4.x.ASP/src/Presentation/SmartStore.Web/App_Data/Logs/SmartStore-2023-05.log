@@ -1,0 +1,14 @@
+﻿SmartStore Verbose: 16 : ===================== APPINIT START
+    DateTime=2023-05-23T12:19:38.1795793Z
+SmartStore Verbose: 16 : Setting native DLL path to 'D:\WORKSPACE\ASP.NET\SmartStoreNET-4.x\src\Presentation\SmartStore.Web\bin\x86'.
+    DateTime=2023-05-23T12:19:38.2620011Z
+SmartStore Verbose: 16 : Loaded plugin descriptors. 8 total, 0 incompatible.
+    DateTime=2023-05-23T12:19:38.3437545Z
+SmartStore Verbose: 16 : INIT PLUGINS (LoadPluginDescriptors). Time elapsed: 81 ms.
+    DateTime=2023-05-23T12:19:38.3447515Z
+SmartStore Verbose: 16 : Plugin changes detected in hash.
+    DateTime=2023-05-23T12:19:38.3547249Z
+SmartStore Verbose: 16 : INIT PLUGINS (Deployment complete). Time elapsed: 1418 ms.
+    DateTime=2023-05-23T12:19:39.6815955Z
+SmartStore Verbose: 16 : ===================== APPINIT END
+    DateTime=2023-05-23T12:19:39.6815955Z
